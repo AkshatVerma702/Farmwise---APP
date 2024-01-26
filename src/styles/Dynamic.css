@@ -8,7 +8,7 @@
 
 
 .select-box{
-    width: 100px;
+    width: 120px;
     height: 40px;
 }
 .add-field{
@@ -65,4 +65,8 @@
    text-align: center;
    background-color: yellow;
    height: 40px;
+}
+
+.gen-btn{
+  margin-top: 20px;
 }
